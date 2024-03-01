@@ -1,6 +1,11 @@
 # Music School Website
 
-This is a simple website for a music school built using Next.js.
+This is a simple website for a music school built using Next.js focused on User Interface.
+
+![Screenshot from 2024-03-01 12-18-54](https://github.com/mahapara24/music-school-nextjs/assets/92634034/986caa1a-c44f-4164-b04e-c2f0eaef81f4)
+![Screenshot from 2024-03-01 12-19-05](https://github.com/mahapara24/music-school-nextjs/assets/92634034/241dc29b-7132-4cb6-8c91-852638ed61c5)
+![Screenshot from 2024-03-01 12-19-16](https://github.com/mahapara24/music-school-nextjs/assets/92634034/aa0a6d8b-b5ff-4ef6-9b2d-aea571d9d2f4)
+
 
 ## Features
 
