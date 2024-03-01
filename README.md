@@ -2,14 +2,14 @@
 
 This is a simple website for a music school built using Next.js focused on User Interface.
 
-![Screenshot from 2024-03-01 12-19-31](https://github.com/mahapara24/music-school-nextjs/assets/92634034/f1c63fc7-92f1-47df-9ae2-163e5a2c7979)
-![Screenshot from 2024-03-01 12-19-40](https://github.com/mahapara24/music-school-nextjs/assets/92634034/07893194-fe39-473c-90ee-0e8b8b0988c9)
-![Screenshot from 2024-03-01 12-19-57](https://github.com/mahapara24/music-school-nextjs/assets/92634034/807622f3-8ddc-479d-a5d2-6cee6347c62c)
-![Screenshot from 2024-03-01 12-20-19](https://github.com/mahapara24/music-school-nextjs/assets/92634034/6c3846c9-4a31-4fb8-a115-6538260577fc)
-![Screenshot from 2024-03-01 12-20-25](https://github.com/mahapara24/music-school-nextjs/assets/92634034/b9f44fa2-609c-478f-b0bf-4edb0fe24c50)
-![Screenshot from 2024-03-01 12-19-16](https://github.com/mahapara24/music-school-nextjs/assets/92634034/2a86e7b3-a585-4027-a37c-7bf019ba26a9)
-![Screenshot from 2024-03-01 12-19-05](https://github.com/mahapara24/music-school-nextjs/assets/92634034/4005c7fd-466f-486b-9fd0-10dcb8c51ff4)
-![Screenshot from 2024-03-01 12-18-54](https://github.com/mahapara24/music-school-nextjs/assets/92634034/771609db-61d5-4104-b9a6-4e549bda1150)
+![Screenshot from 2024-03-01 12-19-16](https://github.com/mahapara24/music-school-nextjs/assets/92634034/b84a7564-797f-4dde-b54b-2d15b01b4821)
+![Screenshot from 2024-03-01 12-19-05](https://github.com/mahapara24/music-school-nextjs/assets/92634034/3eb00b94-086e-4cb1-afe0-14a5575fe183)
+![Screenshot from 2024-03-01 12-18-54](https://github.com/mahapara24/music-school-nextjs/assets/92634034/5f62d6d0-6de9-4a54-866c-6d4dde46920d)
+![Screenshot from 2024-03-01 12-20-25](https://github.com/mahapara24/music-school-nextjs/assets/92634034/effc4df4-3f43-471a-a8df-130748ed30f8)
+![Screenshot from 2024-03-01 12-19-57](https://github.com/mahapara24/music-school-nextjs/assets/92634034/bf7e28f5-9b8b-416e-b534-713660072546)
+![Screenshot from 2024-03-01 12-20-19](https://github.com/mahapara24/music-school-nextjs/assets/92634034/6247097c-8e2a-4157-b49d-8f845dd15ab6)
+![Screenshot from 2024-03-01 12-19-40](https://github.com/mahapara24/music-school-nextjs/assets/92634034/3e3744d2-7cd9-4688-a0cb-cde18b7eb8c6)
+![Screenshot from 2024-03-01 12-19-31](https://github.com/mahapara24/music-school-nextjs/assets/92634034/1e92a749-a20b-4a8e-9472-e40e83c0df7a)
 
 
 ## Features
