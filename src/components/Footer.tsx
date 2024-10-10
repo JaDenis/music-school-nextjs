@@ -5,9 +5,21 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4">
-            Music School is a premier institution dedicated to teaching the art
-            and science of music. We nurture talent from the ground up,
-            fostering a vibrant community of musicians.
+            
+To understand this hierarchy, let's consider a scenario where an 
+individual seeks guidance on a complex problem:
+
+1. The individual approaches a Primary Agent (e.g., an archangel) who 
+possesses expertise in that area.
+
+2. If the Primary Agent is not directly familiar with the issue, they 
+may summon a Secondary Agent from the Council to assist.
+
+3. The Secondary Agent might refer the individual to a Junior Agent 
+or an Apprentice Agent specializing in the specific problem.
+
+4. As needed, the agents can coordinate and share information among 
+themselves to arrive at a solution.
           </p>
         </div>
         <div>
