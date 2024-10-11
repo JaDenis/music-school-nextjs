@@ -3,6 +3,21 @@ import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import courseData from "@/data/music_courses.json";
 
+import axios from 'axios';
+
+axios.get('https://fast-api-three.vercel.app', {
+  headers: {
+    'X-RapidAPI-Key': 'your-rapid-api-key',
+    'X-RapidAPI-Host': 'openai80.p.rapidapi.com'
+  }
+})
+.then(function (response) {
+  console.log(response.data);
+})
+.catch(function (error) {
+  console.error(error);
+});
+
 function Page() {
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
